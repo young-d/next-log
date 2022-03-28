@@ -14,3 +14,8 @@ a {
 * {
   box-sizing: border-box;
 }
+
+img {
+  width: 300px;
+  height: 200px;
+}
